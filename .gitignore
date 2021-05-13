@@ -10,10 +10,7 @@
 
 # production
 /build
-/assets
 
-# server assets
-packages/server/assets/
 
 # misc
 .DS_Store

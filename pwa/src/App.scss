@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  display: grid;
+  grid-template-columns: [first]80% [second]20%;
+}
+
+.VideoPlayer {
+  grid-area: first;
+}
+
+.PlayerData {
+  grid-area: second;
+}
